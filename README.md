@@ -5,6 +5,7 @@
 
 ## Hi there
 I'm a Computer Science & Engineering student at Politecnico di Milano
+
 I love learning by doing, exploring new technologies, and diving into projects just for the experience and knowledge they give me, even if they don't have immediate practical use
 
 I work on video games, frontend websites, and fullstack applications, and I enjoy experimenting with tools like Unity, Unreal Engine
