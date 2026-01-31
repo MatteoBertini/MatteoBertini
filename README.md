@@ -14,6 +14,8 @@ My philosophy is simple: every project, no matter how small or "useless", is a c
 
 ---
 
+## My skills
+
 ### Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss)](https://skillicons.dev)
 
